@@ -1,4 +1,4 @@
-# Crear un script convert_icon.py
+# Script pra convertir imagenes .png a .ico
 from PIL import Image
 import os
 
