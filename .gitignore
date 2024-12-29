@@ -1,5 +1,5 @@
-echo venv/ > .gitignore
-echo __pycache__/ >> .gitignore
-echo build/ >> .gitignore
-echo dist/ >> .gitignore
-echo *.spec >> .gitignore
+venv/
+__pycache__/
+build/
+dist/
+*.spec
