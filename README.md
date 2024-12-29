@@ -1,6 +1,6 @@
 # ScreenshotTool 📸
 
-A powerful and user-friendly screenshot tool built with Python that runs in the system tray. Capture, save, and manage your screenshots with ease.
+A screenshot tool built with Python that runs in the system tray. Capture, save, and manage your screenshots with ease.
 
 ![Screenshot Tool](resources/icon.png)
 
